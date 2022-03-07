@@ -6,7 +6,7 @@ public class Airthmetic
 	}
 	public static void main(String[] args) 
 	{
-		System.out.println("Welcome to gradle---->java");
+		System.out.println("Welcome to gradle projects---->java");
 		Airthmetic ar=new Airthmetic();
 		System.out.println("Result is"+ar.sum(3600,200));
 	}
