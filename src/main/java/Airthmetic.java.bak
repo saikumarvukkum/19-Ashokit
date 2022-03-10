@@ -12,7 +12,7 @@ public class Airthmetic
 	{
 		System.out.println("Welcome to gradle projects---->java");
 		Airthmetic ar=new Airthmetic();
-        String x="keep it up";
+        String x="keep it up your";
 		int t=10;
 
 
@@ -29,20 +29,12 @@ public class Airthmetic
 
 
         System.out.println("Result is");
-		String k="fat";
+		String k="fat is fit";
 		String s="hi hello";
-<<<<<<< HEAD
-        
-=======
-		int k=8;
 
-<<<<<<< HEAD
->>>>>>> 41cc91ca58bbce8f873db4ac7d8765c57a723f9f
-=======
 		int k=8;
 
 
->>>>>>> 022ef11d9c294b4af83e89a9ce488005e22e3d05
         System.out.println("Result is Acutrate");
 
         int i=15;
