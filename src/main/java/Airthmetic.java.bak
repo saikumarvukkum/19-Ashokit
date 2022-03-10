@@ -27,7 +27,7 @@ public class Airthmetic
 		int x=10;
 
 		int s=25;
-        int xy=33;
+        int xy=330;
 		int p=25;
 
 	}
