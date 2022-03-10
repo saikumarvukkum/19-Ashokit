@@ -17,8 +17,12 @@ public class Airthmetic
        int k=45;
 		System.out.println("Result is"+ar.sum(9600000000,200));
 
-        String s="rjy";
-		int i=15;
+
+       
+		
+
+        String s="rjy=gh";
+
 
         int j=15;
 
