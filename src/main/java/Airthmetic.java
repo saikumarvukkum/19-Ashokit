@@ -29,8 +29,9 @@ public class Airthmetic
 
 
         System.out.println("Result is");
+		String k="fat";
 		String s="hi hello";
-
+        
         System.out.println("Result is Acutrate");
 
         int i=15;
