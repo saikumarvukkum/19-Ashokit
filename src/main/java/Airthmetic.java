@@ -33,7 +33,7 @@ public class Airthmetic
 		 
 
 		 String x="fa fa";
-		 int x=250;
+		 int x=2500;
 
 		 String x="fa fa-ka";
 
