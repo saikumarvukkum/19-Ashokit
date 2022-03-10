@@ -3,7 +3,7 @@ public class Airthmetic
 {
 	public int sum(int a,int b){
 		System.out.println("Sum Method added");
-		return a+b;
+		return a*b;
 	}
 	public static void main(String[] args) 
 	{
