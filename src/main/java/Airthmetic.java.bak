@@ -16,11 +16,11 @@ public class Airthmetic
 
 
 		System.out.println("Result is"+ar.sum(9600000000,200));
-<<<<<<< HEAD
+
         String s="";
-=======
+
         int j=15;
->>>>>>> 45e0e62df6e2118b9c1448280e7264496c06493c
+
 		System.out.println("Result is"+ar.sum(8600000000,200));
 
 
