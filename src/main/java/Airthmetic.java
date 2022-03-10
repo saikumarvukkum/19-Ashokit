@@ -32,18 +32,17 @@ public class Airthmetic
 		String s="hi hello";
 
         System.out.println("Result is Acutrate");
-<<<<<<< HEAD
+
         int i=15;
-=======
 
 
->>>>>>> 084e52715446abf4f9d16f00605c491f9d5756f5
-        int xy=339;
+
+
 		int p=25;
         
 
 
-		int d=96;
+		int d=98;
 
 	}
 }
