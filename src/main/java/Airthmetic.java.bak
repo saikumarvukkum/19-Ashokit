@@ -27,13 +27,13 @@ public class Airthmetic
         int o=5;
 		int f=15;
         
-	
+	 System.out.println("----------------");
 
         System.out.println("Result is");
 		
 		String s="hi hello";
 
-		String l="good";
+		String l="good day";
 
 		int d=888;
 
