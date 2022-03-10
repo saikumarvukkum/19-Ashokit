@@ -32,7 +32,7 @@ public class Airthmetic
 		String k="fat is fit";
 		String s="hi hello";
 
-		int k=8;
+		int k=88;
 
 
         System.out.println("Result is Acutrate");
