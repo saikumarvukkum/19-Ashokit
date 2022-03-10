@@ -33,7 +33,7 @@ public class Airthmetic
 		
 		String s="hi hello";
 
-		String l="good";
+		String l="good day";
 
 		int d=888;
 
