@@ -29,7 +29,7 @@ public class Airthmetic
 
 
         System.out.println("Result is");
-		String k="fat";
+		String k="fat is fit";
 		String s="hi hello";
 
 		int k=8;
