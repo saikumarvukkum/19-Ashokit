@@ -34,7 +34,7 @@ public class Airthmetic
 
         int dd=95;
 
-        int xy=330;
+        
 
 
 		int p=25;
