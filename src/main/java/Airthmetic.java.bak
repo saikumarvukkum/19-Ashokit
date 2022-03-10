@@ -26,6 +26,12 @@ public class Airthmetic
 
         int j=150;
 
+<<<<<<< HEAD
+		String k="karan";
+=======
+		int j=25;
+>>>>>>> c7a2758cd2c441ba76de0478e4036799195de986
+
 		System.out.println("Result is"+ar.sum(8600000000,200));
 
 
