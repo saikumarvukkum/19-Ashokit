@@ -24,7 +24,7 @@ public class Airthmetic
 		int x=10;
 
 		int s=25;
-        System.out.println("Result is");
+        System.out.println("Result is Acute");
         int xy=339;
 		int p=25;
         
