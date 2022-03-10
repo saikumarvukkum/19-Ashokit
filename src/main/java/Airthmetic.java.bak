@@ -36,11 +36,11 @@ public class Airthmetic
 		 int x=2500;
 
 		 String x="fa fa-ka";
-<<<<<<< HEAD
+
          int ps=45;
-=======
+
          int pre=25;
->>>>>>> 9155df203117b365f53a37af627ee254c29e2162
+
 		String s="hi hello";
 
 		String l="good day";
