@@ -31,7 +31,7 @@ public class Airthmetic
 
         System.out.println("Result is");
 		 
-		 String x="fa fa";
+		 String x="fa fa-ka";
 		String s="hi hello";
 
 		String l="good day";
