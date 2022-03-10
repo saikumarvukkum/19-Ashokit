@@ -9,11 +9,11 @@ public class Airthmetic
 	{
 		System.out.println("Welcome to gradle projects---->java");
 		Airthmetic ar=new Airthmetic();
-
+<<<<<<< HEAD
 		System.out.println("Result is"+ar.sum(9600000000,200));
-
+=======
 		System.out.println("Result is"+ar.sum(8600000000,200));
-
+>>>>>>> 691966c996267a367bd816a963042d97da59062c
 		int x=10;
 	}
 }
