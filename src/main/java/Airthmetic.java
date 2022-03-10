@@ -25,6 +25,7 @@ public class Airthmetic
 
 		int s=25;
         System.out.println("Result is");
+		String s="hi";
         int xy=339;
 		int p=25;
         
