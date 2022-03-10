@@ -36,7 +36,7 @@ public class Airthmetic
 		 int x=250;
 
 		 String x="fa fa-ka";
-
+         int pre=25;
 		String s="hi hello";
 
 		String l="good day";
