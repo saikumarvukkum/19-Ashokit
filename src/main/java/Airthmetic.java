@@ -12,8 +12,7 @@ public class Airthmetic
 	{
 		System.out.println("Welcome to gradle projects---->java");
 		Airthmetic ar=new Airthmetic();
-        String x="keep it up your";
-		int t=10;
+       
 
 
 		System.out.println("Result is"+ar.sum(9600000000,200));
@@ -21,48 +20,7 @@ public class Airthmetic
 		System.out.println("Result is"+ar.sum(8600000000,200));
 
 
-		int x=10;
-
-		int s=25;
-        int o=5;
-		int f=15;
-        
-	 System.out.println("-------Hello---------");
-
-        System.out.println("Result is");
-		 
-
-		 String x="fa fa";
-		 int x=2500;
-
-		 String x="fa fa-ka";
-
-         int ps=450;
-
-         int pre=25;
-
-		String s="hi hello";
-
-		String l="good day";
-
-		int d=888;
-
-
-		int k=88;
-
-
-        System.out.println("Result is Acutrate");
-
-        int i=15;
-
-
-
-
-		int p=25;
-        
-
-
-		int d=87;
+	
 
 	}
 }

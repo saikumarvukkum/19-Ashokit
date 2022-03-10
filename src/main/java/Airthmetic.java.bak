@@ -37,7 +37,7 @@ public class Airthmetic
 
 		 String x="fa fa-ka";
 
-         int ps=45;
+         int ps=450;
 
          int pre=25;
 
