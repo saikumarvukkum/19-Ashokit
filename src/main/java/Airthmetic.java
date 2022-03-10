@@ -2,7 +2,7 @@ package com.nt.basics;
 public class Airthmetic 
 {
 	public int sum(int a,int b){
-		System.out.println("Sum Method");
+		System.out.println("Sum Method added");
 		return a+b;
 	}
 	public static void main(String[] args) 
