@@ -30,5 +30,7 @@ public class Airthmetic
         
 
 
+		int d=96;
+
 	}
 }
