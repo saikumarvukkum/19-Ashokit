@@ -29,7 +29,7 @@ public class Airthmetic
 
 
         System.out.println("Result is");
-		String s="hi";
+		String s="hi hello";
 
         System.out.println("Result is Acutrate");
 
