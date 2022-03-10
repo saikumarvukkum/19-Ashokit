@@ -24,7 +24,7 @@ public class Airthmetic
 		int x=10;
 
 		int s=25;
-
+        int o=5;
 		int f=15;
 
 
@@ -36,7 +36,13 @@ public class Airthmetic
 =======
 		int k=8;
 
+<<<<<<< HEAD
 >>>>>>> 41cc91ca58bbce8f873db4ac7d8765c57a723f9f
+=======
+		int k=8;
+
+
+>>>>>>> 022ef11d9c294b4af83e89a9ce488005e22e3d05
         System.out.println("Result is Acutrate");
 
         int i=15;
