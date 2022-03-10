@@ -24,7 +24,12 @@ public class Airthmetic
 		int x=10;
 
 		int s=25;
+<<<<<<< HEAD
         System.out.println("Result is");
+		String s="hi";
+=======
+        System.out.println("Result is Acute");
+>>>>>>> ec3168d98c8e1857ae5254149cd49f6585715845
         int xy=339;
 		int p=25;
         
