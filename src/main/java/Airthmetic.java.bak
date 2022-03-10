@@ -15,8 +15,13 @@ public class Airthmetic
        int i=10;
 
        int k=45;
+<<<<<<< HEAD
 		System.out.println("Result is"+ar.sum(9600000000,200));
+        String f="fan";
+=======
+		System.out.println("Result is"+ar.sum(960000,200));
 
+>>>>>>> 2dfd448d24ed0a04f77ba92c3782cf19c8707be3
 
        
 		
