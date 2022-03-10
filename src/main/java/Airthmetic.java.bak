@@ -24,7 +24,7 @@ public class Airthmetic
         String s="rjy=gh";
 
 
-        int j=15;
+        int j=150;
 
 		System.out.println("Result is"+ar.sum(8600000000,200));
 
