@@ -26,6 +26,8 @@ public class Airthmetic
 
         int j=15;
 
+		int j=25;
+
 		System.out.println("Result is"+ar.sum(8600000000,200));
 
 
