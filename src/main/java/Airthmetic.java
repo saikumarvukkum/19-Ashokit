@@ -27,7 +27,7 @@ public class Airthmetic
         int o=5;
 		int f=15;
         
-	
+	 System.out.println("-------Hello---------");
 
         System.out.println("Result is");
 		 
