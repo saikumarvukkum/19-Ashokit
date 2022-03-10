@@ -8,7 +8,7 @@ public class Airthmetic
 	{
 		System.out.println("Welcome to gradle projects---->java");
 		Airthmetic ar=new Airthmetic();
-		System.out.println("Result is"+ar.sum(3600000000,200));
+		System.out.println("Result is"+ar.sum(9600000000,200));
 		int x=10;
 	}
 }
