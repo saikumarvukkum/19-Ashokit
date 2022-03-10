@@ -10,7 +10,7 @@ public class Airthmetic
 		System.out.println("Welcome to gradle projects---->java");
 		Airthmetic ar=new Airthmetic();
 
-		System.out.println("Result is"+ar.sum(860000,200));
+		
 
 
 		System.out.println("Result is"+ar.sum(9600000000,200));
