@@ -12,11 +12,7 @@ public class Airthmetic
 	{
 		System.out.println("Welcome to gradle projects---->java");
 		Airthmetic ar=new Airthmetic();
-<<<<<<< HEAD
-        String x="keep";
-=======
-        String x="keep it ";
->>>>>>> 20dfed13589a91e72d45e10d1d14fb645e1a311d
+        String x="keep it up";
 		int t=10;
 
 
@@ -46,7 +42,7 @@ public class Airthmetic
         
 
 
-		int d=98;
+		int d=87;
 
 	}
 }

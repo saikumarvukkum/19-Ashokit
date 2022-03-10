@@ -30,6 +30,7 @@ public class Airthmetic
 
         System.out.println("Result is");
 		String s="hi hello";
+		int k=8;
 
         System.out.println("Result is Acutrate");
 
