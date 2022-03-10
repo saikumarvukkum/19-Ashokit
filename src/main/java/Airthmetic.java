@@ -32,6 +32,7 @@ public class Airthmetic
         System.out.println("Result is");
 		
 		String s="hi hello";
+		int d=888;
 
 		int k=8;
 

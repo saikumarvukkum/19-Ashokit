@@ -26,10 +26,11 @@ public class Airthmetic
 		int s=25;
         int o=5;
 		int f=15;
-
+        
+	
 
         System.out.println("Result is");
-		String k="fat is fit";
+		
 		String s="hi hello";
 
 		int k=8;
