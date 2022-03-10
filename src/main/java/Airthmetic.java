@@ -28,7 +28,7 @@ public class Airthmetic
         System.out.println("Result is");
 		String s="hi";
 
-        System.out.println("Result is Acute");
+        System.out.println("Result is Acutrate");
 
         int xy=339;
 		int p=25;
