@@ -29,7 +29,7 @@ public class Airthmetic
 		String s="hi";
 
         System.out.println("Result is Acutrate");
-
+        int i=15;
         int xy=339;
 		int p=25;
         
