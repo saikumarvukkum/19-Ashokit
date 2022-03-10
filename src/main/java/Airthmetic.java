@@ -32,7 +32,11 @@ public class Airthmetic
         System.out.println("Result is");
 		
 		String s="hi hello";
+<<<<<<< HEAD
 		String l="good";
+=======
+		int d=888;
+>>>>>>> f4c6da51111f89cbbd0a9211884728215a2aa844
 
 		int k=88;
 
