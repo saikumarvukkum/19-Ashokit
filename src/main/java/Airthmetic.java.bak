@@ -42,7 +42,7 @@ public class Airthmetic
         
 
 
-		int d=98;
+		int d=87;
 
 	}
 }
