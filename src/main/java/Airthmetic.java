@@ -16,7 +16,11 @@ public class Airthmetic
       
 
         int x=15;
+
+        String k="karan";
+
 		int y=25;
+
 
 
 		System.out.println("Result is"+ar.sum(88600,200));

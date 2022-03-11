@@ -12,12 +12,25 @@ public class Airthmetic
 	{
 		System.out.println("Welcome to gradle projects---->java");
 		Airthmetic ar=new Airthmetic();
+<<<<<<< HEAD
 
       
 
         int x=15;
 		int y=25;
 
+=======
+
+      
+
+        int x=15;
+<<<<<<< HEAD
+        String k="karan";
+=======
+		int y=25;
+
+>>>>>>> 83154e83bb4ede830618fb571464bed12d64118c
+>>>>>>> 20ece97ee20144d0bbda4c12684ed6e49bf19c53
 
 		System.out.println("Result is"+ar.sum(88600,200));
          String s="hai";
