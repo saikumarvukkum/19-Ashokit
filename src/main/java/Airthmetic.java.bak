@@ -25,7 +25,11 @@ public class Airthmetic
 
 
 
-       int y=22;
+<<<<<<< HEAD
+       int y=229;
+=======
+       int y=222;
+>>>>>>> 6fe5b04b59f26ddc43fec05d50f2aa102b9f7af1
        
       int y1=33;
 
