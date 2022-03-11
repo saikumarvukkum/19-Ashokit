@@ -25,12 +25,12 @@ public class Airthmetic
 
 
 
-       int y=22;
+       int y=222;
        
 
 
 
-        String s="abcd";
+        String s="abcde";
 
 		System.out.println("Result is"+ar.sum(88600,200));
        
