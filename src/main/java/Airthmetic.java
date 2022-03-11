@@ -15,12 +15,13 @@ public class Airthmetic
 	{
 		System.out.println("Welcome to gradle projects---->java proj");
 		Airthmetic ar=new Airthmetic();
-        int x=108;
+       
+		int x=108;
       
 
       
 		System.out.println("Result is"+ar.sum(88600,200));
-      
+       int j=95;
 		System.out.println("Result is"+ar.sum(8600000000,200));
 
 
