@@ -20,7 +20,7 @@ public class Airthmetic
         String k="karan";
 
 		int y=25;
-
+        int k=95;
 
 
 		System.out.println("Result is"+ar.sum(88600,200));
