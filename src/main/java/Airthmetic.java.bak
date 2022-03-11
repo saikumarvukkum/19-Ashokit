@@ -3,7 +3,7 @@ public class Airthmetic
 {
 	public int sum(int a,int b){
         int y=45;
-		int sd=277;
+		int sd=27;
 		System.out.println("Sum Method added here ");
 		return a+b;
 
@@ -12,22 +12,10 @@ public class Airthmetic
 	{
 		System.out.println("Welcome to gradle projects---->java");
 		Airthmetic ar=new Airthmetic();
-    
-<<<<<<< HEAD
+        int x=15;
 
 		System.out.println("Result is"+ar.sum(88600,200));
 
-=======
-<<<<<<< HEAD
-		System.out.println("Result is"+ar.sum(88600,200));
-=======
-<<<<<<< HEAD
-		System.out.println("Result is"+ar.sum(960000,400));
-=======
-		System.out.println("Result is"+ar.sum(88600,200));
->>>>>>> 62486df383eb817540e4928bf0d0d2704326a393
->>>>>>> 1c465be75140e219d15ab09b78538a65385c695b
->>>>>>> 9cce4a4f6161b7b1507138ae43ac446716b17923
 
 		System.out.println("Result is"+ar.sum(8600000000,200));
 
