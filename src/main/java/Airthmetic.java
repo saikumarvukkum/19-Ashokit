@@ -7,7 +7,7 @@ public class Airthmetic
 		int sd=27;
 		System.out.println("Sum Method added here it is ");
 
-		int p=205;
+
 		return a+b;
 
 	}
@@ -18,20 +18,9 @@ public class Airthmetic
 
       
 
-        int x=15;
-
-
-
-        String k="karanki";
-
-
-		int y=25;
-        int k=95;
-
-
+      
 		System.out.println("Result is"+ar.sum(88600,200));
-         String s="hai hello";
-
+      
 		System.out.println("Result is"+ar.sum(8600000000,200));
 
 
