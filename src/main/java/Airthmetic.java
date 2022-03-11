@@ -25,7 +25,8 @@ public class Airthmetic
 
 
        int y=220;
-
+        
+		int y1=5;
 
         String s="abcd";
 
