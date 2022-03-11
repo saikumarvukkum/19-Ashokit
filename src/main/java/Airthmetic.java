@@ -4,7 +4,7 @@ public class Airthmetic
 	public int sum(int a,int b){
         int y=45;
 		int sd=278;
-		System.out.println("Sum Method added here ");
+		System.out.println("Sum Method added here it is ");
 		int p=20;
 		return a+b;
 
