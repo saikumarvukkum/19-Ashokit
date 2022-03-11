@@ -17,7 +17,7 @@ public class Airthmetic
 
         int x=15;
 
-        String k="karan";
+        String k="karan johar";
 
 		int y=25;
         int k=95;
