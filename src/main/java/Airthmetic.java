@@ -30,7 +30,7 @@ public class Airthmetic
 
        
       int y1=33;
-
+     int c=22;
 
         String s="abcde";
 
