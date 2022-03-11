@@ -3,13 +3,10 @@ public class Airthmetic
 {
 	public int sum(int a,int b){
         int y=45;
-<<<<<<< HEAD
-		int sd=278;
-		System.out.println("Sum Method added here it is ");
-=======
+
 		int sd=27;
 		System.out.println("Sum Method added here ");
->>>>>>> 9088b18ea34a3b5fb00ea44cf5d2f14b530da06c
+
 		int p=20;
 		return a+b;
 
