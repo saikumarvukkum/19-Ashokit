@@ -17,8 +17,16 @@ public class Airthmetic
        int k=45;
 
 		System.out.println("Result is"+ar.sum(9600000000,200));
+
 		int j=98;
+
+
+      
+		
+
+
         String f="fan wars";
+         int i=95;
 
 		System.out.println("Result is"+ar.sum(960000,200));
 
