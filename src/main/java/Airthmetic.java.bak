@@ -12,14 +12,6 @@ public class Airthmetic
 	{
 		System.out.println("Welcome to gradle projects---->java");
 		Airthmetic ar=new Airthmetic();
-<<<<<<< HEAD
-
-      
-
-        int x=15;
-		int y=25;
-
-=======
 
       
 
@@ -28,16 +20,11 @@ public class Airthmetic
         String k="karan";
 
 		int y=25;
+        int k=95;
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 83154e83bb4ede830618fb571464bed12d64118c
->>>>>>> 20ece97ee20144d0bbda4c12684ed6e49bf19c53
->>>>>>> 4edec7547107ce4e6e0875ce9aba68d672316b34
 
 		System.out.println("Result is"+ar.sum(88600,200));
-         String s="hai";
+         String s="hai hello";
 
 		System.out.println("Result is"+ar.sum(8600000000,200));
 
