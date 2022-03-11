@@ -8,7 +8,7 @@ public class Airthmetic
 	
 
 
-		int sd=289;
+		int sd=28;
 
 		
 

@@ -12,16 +12,11 @@ public class Airthmetic
 
 		
 
-<<<<<<< HEAD
-		System.out.println("Sum Method added here .... ");
-=======
 
-<<<<<<< HEAD
-		System.out.println("Sum Method added here it is as so");
-=======
+		
+
 		System.out.println("Sum Method added here it is ");
->>>>>>> 2fb403962e2d79cbe9d6ba7b765800e0a5bd3f55
->>>>>>> a5cbab6345e0d96bdbe9822b65c6c452d6fa610a
+
 
 
 		return a+b;
