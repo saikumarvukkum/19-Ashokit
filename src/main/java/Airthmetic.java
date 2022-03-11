@@ -7,9 +7,17 @@ public class Airthmetic
 
 	
 
+
+		int sd=289;
+
 		
 
+<<<<<<< HEAD
 		System.out.println("Sum Method added here .... ");
+=======
+
+		System.out.println("Sum Method added here it is ");
+>>>>>>> 2fb403962e2d79cbe9d6ba7b765800e0a5bd3f55
 
 
 		return a+b;
