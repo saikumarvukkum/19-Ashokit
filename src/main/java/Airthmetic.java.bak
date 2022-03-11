@@ -17,11 +17,10 @@ public class Airthmetic
 
         int x=15;
 
-<<<<<<< HEAD
-        String k="karan johar";
-=======
+
+
         String k="karanki";
->>>>>>> 8ccea98dc314084071522070cc9efd5048e00c35
+
 
 		int y=25;
         int k=95;
