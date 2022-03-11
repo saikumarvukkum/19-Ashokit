@@ -20,7 +20,7 @@ public class Airthmetic
 
         String s2="raj";
 
-       int x1=40;
+       int x1=405;
 
        int y=2;
 
