@@ -36,7 +36,11 @@ public class Airthmetic
 		System.out.println("Result is"+ar.sum(88600,200));
         int k=25;
 		System.out.println("Result is"+ar.sum(8600000000,200));
-        String s="a";
+<<<<<<< HEAD
+        String s="at";
+=======
+        String s="af";
+>>>>>>> 4c8be359ff6997cc34cd11d2174db9ae2e433472
       
 
       
