@@ -9,7 +9,7 @@ public class Airthmetic
 
 		
 
-		System.out.println("Sum Method added here it is ");
+		System.out.println("Sum Method added here .... ");
 
 
 		return a+b;
