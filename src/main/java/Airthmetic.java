@@ -16,7 +16,7 @@ public class Airthmetic
       
 
         int x=15;
-
+        String k="karan";
 
 		System.out.println("Result is"+ar.sum(88600,200));
          String s="hai";
