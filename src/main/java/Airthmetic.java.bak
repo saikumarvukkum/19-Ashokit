@@ -4,11 +4,11 @@ public class Airthmetic
 	public int sum(int a,int b){
         int y=45;
 
-<<<<<<< HEAD
-		int sd=2;
-=======
+
+	
+
 		int sd=28;
->>>>>>> fab21798e58a61de58c1569ee6f31c8bff4bece7
+
 		System.out.println("Sum Method added here it is ");
 
 
