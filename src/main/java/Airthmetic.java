@@ -12,39 +12,8 @@ public class Airthmetic
 	{
 		System.out.println("Welcome to gradle projects---->java");
 		Airthmetic ar=new Airthmetic();
-       int i=10;
-
-       int k=45;
-
-		System.out.println("Result is"+ar.sum(9600000000,200));
-
-		int j=98;
-
-
-      
-		
-
-
-        String f="fan wars";
-         int i=95;
-
+    
 		System.out.println("Result is"+ar.sum(960000,200));
-
-
-
-       
-		
-
-        String s="rjy=gh";
-
-
-        int j=150;
-
-
-		String k="karan";
-
-		int j=25;
-
 
 		System.out.println("Result is"+ar.sum(8600000000,200));
 

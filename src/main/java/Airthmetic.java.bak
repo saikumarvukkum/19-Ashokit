@@ -17,14 +17,14 @@ public class Airthmetic
        int k=45;
 
 		System.out.println("Result is"+ar.sum(9600000000,200));
-<<<<<<< HEAD
+
 		int j=98;
-=======
+
 
       
 		
 
->>>>>>> 3554bce91e0173d9e32fafaf449d8e36cf2c0a8a
+
         String f="fan wars";
          int i=95;
 
