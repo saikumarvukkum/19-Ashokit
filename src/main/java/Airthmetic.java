@@ -16,19 +16,20 @@ public class Airthmetic
 		System.out.println("Welcome to gradle projects---->java proj");
 		Airthmetic ar=new Airthmetic();
 
-        int x=10800;
+      
 
       
 
       
 		System.out.println("Result is"+ar.sum(88600,200));
-       int j=95;
+     
 		System.out.println("Result is"+ar.sum(8600000000,200));
-        int y=99;
-        int k=41;
+       
+      
 
-        String s= "ratan";
+      
 
+    
 
 	
 
