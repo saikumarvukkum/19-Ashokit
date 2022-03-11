@@ -17,14 +17,13 @@ public class Airthmetic
 		Airthmetic ar=new Airthmetic();
       int x=1;
 
-<<<<<<< HEAD
+
       String s1="bc";
-=======
+
 	  int y=20;
 
 
-      String s1="b";
->>>>>>> 2dac9efdc028af30f5d4dfb5d11e952822090cb4
+     
 
 	
 
