@@ -17,11 +17,22 @@ public class Airthmetic
 		Airthmetic ar=new Airthmetic();
       int x=1;
 
+<<<<<<< HEAD
 	  int y=20;
 
+=======
 
-      String s1="b";
+      String s1="bc";
 
+	  int y=20;
+>>>>>>> 81e2e247efaa4a5fa857cae2b1b2ffdcfbd6eb4e
+
+
+<<<<<<< HEAD
+=======
+     
+
+>>>>>>> 81e2e247efaa4a5fa857cae2b1b2ffdcfbd6eb4e
 	
 
       

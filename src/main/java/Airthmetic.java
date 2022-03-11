@@ -17,10 +17,13 @@ public class Airthmetic
 		Airthmetic ar=new Airthmetic();
       int x=1;
 
+
+      String s1="bc";
+
 	  int y=20;
 
 
-      String s1="b";
+     
 
 	
 
@@ -31,7 +34,7 @@ public class Airthmetic
 
       
 		System.out.println("Result is"+ar.sum(88600,200));
-      
+        int k=25;
 		System.out.println("Result is"+ar.sum(8600000000,200));
         String s="af";
       
