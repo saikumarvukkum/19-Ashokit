@@ -18,7 +18,7 @@ public class Airthmetic
 		int z=3;
 		Airthmetic ar=new Airthmetic();
 
-        String s2="raj";
+        String s2="rajesh";
 
 
 
