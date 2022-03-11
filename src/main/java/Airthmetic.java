@@ -28,7 +28,7 @@ public class Airthmetic
 		String h="java";
 		Airthmetic ar=new Airthmetic();
 
-      int x=110;
+      int x=11;
 
 
     
