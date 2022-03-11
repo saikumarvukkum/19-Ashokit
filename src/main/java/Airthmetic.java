@@ -17,7 +17,7 @@ public class Airthmetic
        int x=1;
 		
 		Airthmetic ar=new Airthmetic();
-
+       int x1=4;
        int y=2;
 
         String s="abc";
