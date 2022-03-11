@@ -22,7 +22,7 @@ public class Airthmetic
 
 
 
-       int x1=4;
+       int x1=46;
 
 
 
