@@ -13,7 +13,10 @@ public class Airthmetic
 		
 
 
-		System.out.println("Sum Method added here it is as so");
+		
+
+		System.out.println("Sum Method added here it is ");
+
 
 
 		return a+b;
