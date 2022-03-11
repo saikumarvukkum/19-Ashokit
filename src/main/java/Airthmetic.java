@@ -34,7 +34,7 @@ public class Airthmetic
 
       int y1=3;
 
-
+      String x="java";
 
         String s="abcde";
 
