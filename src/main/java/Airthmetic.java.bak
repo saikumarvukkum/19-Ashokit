@@ -17,7 +17,11 @@ public class Airthmetic
        int x=1;
 		int z=3;
 		Airthmetic ar=new Airthmetic();
-
+<<<<<<< HEAD
+        String s2="raj";
+=======
+       int x1=4;
+>>>>>>> a4611323a4c893c158ea3394b3b2060fa2e91bb9
        int y=2;
 
         String s="abc";
