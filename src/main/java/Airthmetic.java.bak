@@ -24,8 +24,15 @@ public class Airthmetic
        int x1=400;
 
 
+<<<<<<< HEAD
        int y=220;
+        
+		int y1=5;
+=======
+       int y=22;
+       
 
+>>>>>>> 68cb07cd0dba8f2e25102e26c04beb8c43d9aa82
 
         String s="abcd";
 
