@@ -4,8 +4,13 @@ public class Airthmetic
 	public int sum(int a,int b){
         int y=45;
 
+<<<<<<< HEAD
 		int sd=28;
+        String x="xxx";
+=======
+		int sd=281;
 
+>>>>>>> 68a8be8bb7fbb68b97d98e515c40552cb445a9cd
 		System.out.println("Sum Method added here it is ");
 
 		return a+b;
