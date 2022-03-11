@@ -27,7 +27,7 @@ public class Airthmetic
 
        int y=222;
        
-
+      int y1=33;
 
 
         String s="abcde";
