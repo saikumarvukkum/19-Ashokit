@@ -5,6 +5,7 @@ public class Airthmetic
         int y=45;
 		int sd=27;
 		System.out.println("Sum Method added here ");
+		int p=20;
 		return a+b;
 
 	}
