@@ -23,9 +23,9 @@ public class Airthmetic
 
        int x1=400;
 
-       int y=2;
+       int y=22;
 
-        String s="abc";
+        String s="abcd";
 
 		System.out.println("Result is"+ar.sum(88600,200));
        

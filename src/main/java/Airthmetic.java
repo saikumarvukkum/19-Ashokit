@@ -23,7 +23,7 @@ public class Airthmetic
 
        int x1=400;
 
-       int y=22;
+       int y=2;
 
         String s="abcd";
 
