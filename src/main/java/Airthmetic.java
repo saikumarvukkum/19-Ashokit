@@ -17,7 +17,7 @@ public class Airthmetic
 
 		
 		Airthmetic ar=new Airthmetic();
-
+        String s="abc";
 		System.out.println("Result is"+ar.sum(88600,200));
        
 		System.out.println("Result is"+ar.sum(8600000000,200));
