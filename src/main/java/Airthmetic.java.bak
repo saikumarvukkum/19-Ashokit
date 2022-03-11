@@ -24,11 +24,11 @@ public class Airthmetic
 		System.out.println("Result is"+ar.sum(88600,200));
        int j=95;
 		System.out.println("Result is"+ar.sum(8600000000,200));
-<<<<<<< HEAD
+
         int k=41;
-=======
+
         String s= "ratan";
->>>>>>> a7d5bf341a61cf757d4a626ffc3eec8a175e88e5
+
 
 	
 
