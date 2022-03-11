@@ -6,7 +6,7 @@ public class Airthmetic
 
 		int sd=27;
 		System.out.println("Sum Method added here ");
-
+        int x=95;
 		int p=20;
 		return a+b;
 
