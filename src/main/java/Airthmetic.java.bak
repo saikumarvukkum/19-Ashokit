@@ -29,8 +29,13 @@ public class Airthmetic
        int y=222;
 
        
+<<<<<<< HEAD
       int y1=33;
+     int c=22;
+=======
+      int y1=3;
 
+>>>>>>> d23417a2a1d395a621c173a33928a6fb3d346853
 
         String s="abcde";
 
