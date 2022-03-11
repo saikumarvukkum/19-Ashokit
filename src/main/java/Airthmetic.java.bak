@@ -17,22 +17,14 @@ public class Airthmetic
 		Airthmetic ar=new Airthmetic();
       int x=1;
 
-<<<<<<< HEAD
-	  int y=20;
-
-=======
 
       String s1="bc";
 
 	  int y=20;
->>>>>>> 81e2e247efaa4a5fa857cae2b1b2ffdcfbd6eb4e
 
 
-<<<<<<< HEAD
-=======
      
 
->>>>>>> 81e2e247efaa4a5fa857cae2b1b2ffdcfbd6eb4e
 	
 
       
@@ -42,9 +34,9 @@ public class Airthmetic
 
       
 		System.out.println("Result is"+ar.sum(88600,200));
-      
+        int k=25;
 		System.out.println("Result is"+ar.sum(8600000000,200));
-        String s="a";
+        String s="af";
       
 
       
