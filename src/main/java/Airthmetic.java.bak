@@ -21,8 +21,13 @@ public class Airthmetic
         String s2="raj";
 
 
+<<<<<<< HEAD
        int x1=400;
+       int x2=20;
+=======
+       int x1=40;
 
+>>>>>>> 2dd92bf59061642b130d88f0e4f7cc584354bd7a
 
 
 

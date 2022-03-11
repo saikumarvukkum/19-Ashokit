@@ -21,8 +21,10 @@ public class Airthmetic
         String s2="raj";
 
 
-       int x1=400;
-       int x2=20;
+
+       int x1=40;
+
+
 
 
 
