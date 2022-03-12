@@ -5,8 +5,13 @@ public class Airthmetic
         int y=456;
 
         int x=15;
-        int f=4;
+
+        
        String s="khan";
+
+        int f=45;
+
+
       int y=50;
 	   
 	   String k="apper";
