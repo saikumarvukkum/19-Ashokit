@@ -7,7 +7,9 @@ public class Airthmetic
         int x=15;
         int f=4;
 
-       String k="appsss";
+      
+	   
+	   String k="app";
         
 		String p="kikus";
 
