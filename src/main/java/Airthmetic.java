@@ -7,7 +7,7 @@ public class Airthmetic
         int x=15;
         int f=4;
 
-      
+      int y=0;
 	   
 	   String k="app";
         
