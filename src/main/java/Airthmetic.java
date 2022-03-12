@@ -17,7 +17,7 @@ public class Airthmetic
 	{
 		System.out.println("Welcome to gradle projects---->java proj");
        int x=10;
-		int z=3;
+		int z=33;
 		Airthmetic ar=new Airthmetic();
 
         String s2="rajesh";
