@@ -7,7 +7,7 @@ public class Airthmetic
         int x=15;
 
         
-       String s="khan";
+       String s="khanss";
 
         int f=45;
 
