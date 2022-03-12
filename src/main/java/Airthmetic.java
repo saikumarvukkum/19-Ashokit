@@ -11,7 +11,7 @@ public class Airthmetic
 	   
 	   String k="apper";
         
-		String p="kikus";
+		String p="kikusar";
 
 
 		int sd=281;
