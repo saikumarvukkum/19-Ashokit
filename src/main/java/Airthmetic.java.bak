@@ -4,11 +4,10 @@ public class Airthmetic
 	public int sum(int a,int b){
         int y=45;
 
-<<<<<<< HEAD
-       String k="appli";
-=======
+
+
        String k="appsss";
->>>>>>> 97ab91653a42e9f9471ddbcb32c854cbbeab157b
+
 
 		int sd=281;
 
