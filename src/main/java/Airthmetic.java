@@ -6,7 +6,7 @@ public class Airthmetic
 
        String k="app";
 
-		int sd=2810;
+		int sd=281;
 
 
 		System.out.println("Sum Method added here it is ");
