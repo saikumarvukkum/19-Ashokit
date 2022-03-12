@@ -9,7 +9,7 @@ public class Airthmetic
 
       int y=50;
 	   
-	   String k="app";
+	   String k="apper";
         
 		String p="kikus";
 
