@@ -6,7 +6,7 @@ public class Airthmetic
 
 
 
-       String k="appsss";
+       String k="app";
 
 
 		int sd=281;
