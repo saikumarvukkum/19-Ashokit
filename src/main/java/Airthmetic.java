@@ -6,7 +6,7 @@ public class Airthmetic
 
         int x=15;
         int f=4;
-
+       String s="khan";
       int y=50;
 	   
 	   String k="apper";
