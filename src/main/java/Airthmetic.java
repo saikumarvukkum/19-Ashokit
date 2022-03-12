@@ -6,9 +6,11 @@ public class Airthmetic
 
         int x=1;
 
+
        String k="app";
         
 		String p="kik";
+
 
 		int sd=281;
 

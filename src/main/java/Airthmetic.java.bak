@@ -6,9 +6,14 @@ public class Airthmetic
 
         int x=1234;
 
+<<<<<<< HEAD
+       String k="applicat";
+
+=======
        String k="app";
         
 		String p="kik";
+>>>>>>> a13ec84ebd983b7b936c58a3196a3e750df586ab
 
 		int sd=281;
 
