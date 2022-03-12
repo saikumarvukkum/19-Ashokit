@@ -4,7 +4,7 @@ public class Airthmetic
 	public int sum(int a,int b){
         int y=45;
 
-
+        int x=1;
 
        String k="appsss";
 
