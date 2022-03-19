@@ -6,7 +6,7 @@ public class Airthmetic
         int y=45866;
 
 
-        int y=456;
+        int y=45678;
 
 
         int x=15;
