@@ -2,7 +2,31 @@ package com.nt.basics;
 public class Airthmetic 
 {
 	public int sum(int a,int b){
-      
+
+        int y=456;
+
+        int x=15;
+
+        
+
+       String s="khansstss";
+
+       String s="khan";
+
+
+        int f=45;
+
+
+      int y=50;
+	   
+	   String k="apper";
+        
+		
+
+
+		int sd=281;
+
+
 
 		System.out.println("Sum Method added here it is ");
 
