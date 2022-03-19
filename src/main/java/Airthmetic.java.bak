@@ -3,19 +3,19 @@ public class Airthmetic
 {
 	public int sum(int a,int b){
 
+        int y=458;
+
+
         int y=456;
+
 
         int x=15;
 
         
 
-       String s="khan";
-
-
        String s="khansstss";
 
        String s="khan";
-
 
 
         int f=45;
@@ -25,7 +25,7 @@ public class Airthmetic
 	   
 	   String k="apper";
         
-		String p="kikusar";
+		
 
 
 		int sd=281;
