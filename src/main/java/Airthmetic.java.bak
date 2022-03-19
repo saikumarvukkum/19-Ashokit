@@ -33,9 +33,7 @@ public class Airthmetic
        int x=10;
 		int z=33;
 		Airthmetic ar=new Airthmetic();
-<<<<<<< HEAD
-		System.out.println("Result is"+ar.sum(3600000,200));
-=======
+
 
         String s2="rajesh";
 
@@ -61,6 +59,6 @@ public class Airthmetic
        
 		System.out.println("Result is"+ar.sum(8600000000,200));
 
->>>>>>> dde9f7adb3936654acb41ccb37a6a4a9f32a47fb
+
 	}
 }

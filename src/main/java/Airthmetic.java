@@ -59,6 +59,7 @@ public class Airthmetic
        
 		System.out.println("Result is"+ar.sum(8600000000,200));
 
-
+    public void m1(){
+		//logic goes here
 	}
 }
