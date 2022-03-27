@@ -13,7 +13,7 @@ public class Airthmetic
 
         
 
-       String s="khansstss";
+      
 
        String s="khan";
 
