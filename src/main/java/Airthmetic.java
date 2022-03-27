@@ -23,7 +23,7 @@ public class Airthmetic
 
       int y=50;
 	   
-	   String k="apper";
+	   String k="appleeer";
         
 		
 
